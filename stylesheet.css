@@ -1,0 +1,48 @@
+.header {
+  background-color: yellow;
+  height: 90px;
+  color: black;
+}
+.header-logo {
+  float: left;
+  font-size: 40px;
+  padding: 20px 40px;
+}
+.header-list li {
+  float: left;
+  list-style: none;
+  padding: 33px 20px;
+}
+.main {
+  padding: 180px 0 100px 0;
+  backrgound-image: url(https://www.logomoose.com/featured/dream-center/);
+  background-size: cover;
+  color: black;
+  text-align: center;
+}
+.btn-main p {
+  margin-bottom: 3px;
+}
+.btn-main {
+  margin: 20px o;
+}
+.signup {
+  background-color: #239b76;
+}
+.facebook {
+  background-color: #3b5998;
+  margin-right: 10px
+}
+.instagram {
+  background-color: #55acee;
+}
+.btn {
+  padding: 12px 24px;
+  color: white;
+  display: inline-block;
+  opacity: 0.8;
+  border-radius: 4px;
+}
+.btn:hover {
+  opacity: 1;
+}
